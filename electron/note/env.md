@@ -10,7 +10,9 @@ https://github.com/jeromeetienne/electron-threejs-example
 jspmで管理しているプロジェクトもあったが、こちらでは再現できなかった。まだjspmは安定していない印象。
 
 threejsの小さくて動作確認しやすいコードとして下記を用意した。
-threejs部分はhttp://liginc.co.jp/web/html-css/html/91988から持ってきた。
+threejs部分は
+http://liginc.co.jp/web/html-css/html/91988
+から持ってきた。
 
 ```
 document.addEventListener('DOMContentLoaded', function() {
